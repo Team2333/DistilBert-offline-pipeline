@@ -5,7 +5,7 @@ We adopt the offline training and online prediction Machine Learning System fram
 
 We used the recent DistilBERT pre-trained large-scale NLP language model and fine-tuned it for the downstream fake news classification task.
 
-Initial fine-tune training dataset are adopted from CONSTRAINT workshop of AAAI21. For offline routine training and updating in the future, we will adopt the Fakenewsnet: A data repository with news content, social context, and spatiotemporal information for studying fake news on social media. As we hope to track the lastest trend of popular fake news and broader fake news topic as well.
+Initial fine-tune training dataset are adopted from CONSTRAINT workshop of AAAI21. For offline routine training and updating in the future, we will adopt the Fakenewsnet: A data repository with news content, social context, and spatiotemporal information for studying fake news on social media. Fakenewsnet offers up-to-date datasets and is continuously been updated on a regular basis. We hope to track the lastest trend of popular fake news and broader fake news topic as well by doing offline-training of our model and achieve better performance in the online prediction.
 
 
 References:
