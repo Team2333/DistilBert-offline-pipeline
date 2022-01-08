@@ -9,6 +9,7 @@ Initial fine-tune training dataset are adopted from CONSTRAINT workshop of AAAI2
 
 
 References:
+
 @misc{patwa2020fighting, 
   title={Fighting an Infodemic: COVID-19 Fake News Dataset}, 
   author={Parth Patwa and Shivam Sharma and Srinivas PYKL and Vineeth Guptha and Gitanjali Kumari and Md Shad Akhtar and Asif Ekbal and Amitava Das and Tanmoy Chakraborty}, 
